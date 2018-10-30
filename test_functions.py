@@ -1,4 +1,3 @@
-#comentario
 from functions import sum_number
 from functions import get_full_name
 import unittest
