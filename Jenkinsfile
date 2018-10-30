@@ -1,3 +1,4 @@
+//comentario
 node('master'){
     stage("Obtener codigo fuente"){
         git 'https://github.com/locoalien/python_devops.git'
